@@ -1,0 +1,52 @@
+/* 
+  Localizable.strings
+  GeneralProducts
+
+  Created by iTMiNus on 1/8/13.
+  Copyright (c) 2013 iTMiNus. All rights reserved.
+*/
+
+/* No comment provided by engineer. */
+"ClientDontExist" = "That client doesn't exist";
+
+/* No comment provided by engineer. */
+"DNIexist" = "That DNI already exist";
+
+/* No comment provided by engineer. */
+"Error" = "Error";
+
+/* No comment provided by engineer. */
+"ErrorExport" = "An error has ocurred while doing export";
+
+/* No comment provided by engineer. */
+"ErrorImport" = "An error has ocurred while doing import";
+
+/* No comment provided by engineer. */
+"FabricarPales" = "You have to manufacture";
+
+/* No comment provided by engineer. */
+"FillFields" = "Please fill the remaining fields";
+
+/* No comment provided by engineer. */
+"Information" = "Information";
+
+/* No comment provided by engineer. */
+"OkButton" = "Ok";
+
+/* No comment provided by engineer. */
+"Need" = "You need";
+
+/* No comment provided by engineer. */
+"NIFexist" = "That NIF already exist";
+
+/* No comment provided by engineer. */
+"Pales" = "pallets";
+
+/* No comment provided by engineer. */
+"ProviderDontExist" = "That provider doesn't exist";
+
+/* No comment provided by engineer. */
+"SaveTxt" = "You can only save data to txt files";
+
+/* No comment provided by engineer. */
+"TonsOfWood" = "tons of wood";
